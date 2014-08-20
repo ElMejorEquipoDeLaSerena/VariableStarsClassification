@@ -1,2 +1,3 @@
 data/*
-.ipynab_checkpoints/*
+.ipynb_checkpoints/*
+temp/*
